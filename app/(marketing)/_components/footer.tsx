@@ -10,7 +10,7 @@ export const Footer = () => {
           
         </Button>
         <Button variant="ghost" size="sm">
-          ©Abhyudaya 2023
+          ©Abhyudaya&SA 2023-24
         </Button>
       </div>
     </div>
